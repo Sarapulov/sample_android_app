@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sample Notes App</string>
+    <string name="activity_name_new_note">New Note</string>
+    <string name="activity_note_add_title_hint">Title</string>
+    <string name="activity_note_add_description_hint">Enter your text here</string>
+    <string name="menu_note_add_done">Done</string>
+    <string name="menu_note_details_delete">Delete</string>
+    <string name="note_delete_dialog_title">Confirmation</string>
+    <string name="note_delete_message">Are you sure you want to delete a note?</string>
+    <string name="note_delete_dialog_positive_button">Yes</string>
+    <string name="note_delete_dialog_negative_button">No</string>
+
+</resources>
